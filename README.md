@@ -10,6 +10,8 @@ As used at:
 
 _Used elsewhere? Let me know! **email** jp.lomas@gmail.com_
 
+There's a far newer version at **Royal Bolton Hospital** that is all-singing and all-dancing with lots additional functionality.  Email if you need a copy.
+
 ## Features
 
 - Automated incremental backup for governance purposes
